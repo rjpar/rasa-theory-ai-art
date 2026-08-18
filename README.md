@@ -1,7 +1,5 @@
 # Rasa Theory and AI Art
 
-A philosophy writing sample by Ryan Park.
-
-This paper develops a “double translation” interpretation of classical rasa theory and applies it to generative AI as a test case for the distinction between aesthetic experience and artistic communication.
+An analysis of rasa theory applied to generative AI that develops a double translation framework for considering artistic communication separately from aesthetic experience.
 
 [Read the paper](rasa-theory-and-ai-art.pdf)
